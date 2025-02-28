@@ -36,7 +36,7 @@ for (clock in 1:clockmax) {
   Isave[clock] <- I
   Rsave[clock] <- R
   Nsave[clock] <- N
-}
+
 
 # Plot the results
 plot(tsave, Ssave, type = 'l', col = 'blue', ylim = c(0, N), 
