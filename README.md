@@ -20,5 +20,5 @@ Future improvements to this simulation could include incorporating more realisti
 ![SIR Model Simulation](SIRModelSimulation.png)
 <br><br>
 
-## Languages Used
+## Language Used
 - **R**
