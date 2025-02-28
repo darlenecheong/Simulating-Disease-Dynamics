@@ -2,6 +2,10 @@
 This project uses the Susceptible-Infected-Recovered (SIR) model to simulate and analyze the spread of infectious diseases, exploring the impact of infection and recovery rates on disease dynamics over time.
 <br><br>
 
+## R Script
+Please view the R script 🔗[here](Simulating-Disease-Dynamics.R).
+<br><br>
+
 ## Context
 This project utilizes a deterministic Susceptible-Infected-Recovered (SIR) model to simulate the spread of an infectious disease within a population. The SIR model divides the population into three compartments: susceptible individuals *S*, infected individuals *I*, and recovered individuals *R*. Accordingly, *S(t) + I(t) + R(t) = N*, where *t* is time and *N* is population size. The simulation runs over a specified period (600 days), where the transitions between these states are governed by the infection rate *a* and recovery rate *b*. The initial population consists of 20 individuals, with one infected person and no recovered individuals. The model calculates the number of susceptible, infected, and recovered individuals at each time step using simple differential equations. The goal of the simulation is to understand how the disease spreads over time and the impacts of different parameters on the disease dynamics.
 
