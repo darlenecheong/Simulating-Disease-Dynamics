@@ -18,6 +18,7 @@ Future improvements to this simulation could include incorporating more realisti
 
 # Output
 ![SIR Model Simulation](SIRModelSimulation.png)
+<br><br>
 
 # Languages Used
 - **R**
